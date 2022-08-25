@@ -1,6 +1,10 @@
 # Pull Request Practice
 This repository is for practicing and learning how to make pull requests in GitHub.
 
+## Why make a pull request?
+
+Pull requests allow us to segment our changes and bring them into a known working branch in increments. They also allow for helpful peer-reviews of code before bringing them into main branch.
+
 Here are the steps to make a branch for a pull request in GitHub:
 
 ## First we must make a branch and edit it.
@@ -30,3 +34,5 @@ Here are the steps to make a branch for a pull request in GitHub:
 3. After you are done adding files, type `git commit -m "insert helpful message here."` to save these updates as a commit.
 
 4. Now we may push to the remote repository through: `git push -u origin branchName`
+
+5. Now you may check the in-browser repository for your branch to create a pull request from.
