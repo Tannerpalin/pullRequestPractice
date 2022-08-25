@@ -29,4 +29,4 @@ Here are the steps to make a branch for a pull request in GitHub:
   
 3. After you are done adding files, type `git commit -m "insert helpful message here."` to save these updates as a commit.
 
-4. Now we may push to the remote repository through:
+4. Now we may push to the remote repository through: `git push -u origin branchName`
