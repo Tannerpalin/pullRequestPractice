@@ -1,4 +1,4 @@
-# pullRequestPractice
+# Pull Request Practice
 This repository is for practicing and learning how to make pull requests in GitHub.
 
 Here are the steps to make a branch for a pull request in GitHub:
