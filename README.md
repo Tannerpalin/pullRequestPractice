@@ -1,5 +1,5 @@
 # Pull Request Practice
-This repository is learning and practicing how to make pull requests in GitHub.
+This repository is for learning and practicing how to make pull requests in GitHub.
 
 ## Why make a pull request?
 
