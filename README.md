@@ -1,4 +1,4 @@
-# Pull Request Practice
+# Pull Request Practice (Git CLI)
 This repository is for learning and practicing how to make pull requests in GitHub.
 
 ## Why make a pull request?
