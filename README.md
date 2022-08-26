@@ -20,7 +20,7 @@ This allows us to safely make updates to a code base and work with others to imp
 
 4. Next, type `git checkout branchName`. This will allow your editor (VSCode) to jump over and edit only your local branch.
 
-5. Now you can make all your edits, fixes, updates to your local branch. If you'd like to, feel free to add your username to the practiceList.txt
+5. Now you can make all your edits, fixes, updates to your local branch. If you'd like to, feel free to add your username to `practiceList.txt`
 
 ## Now we must save these changes to our local branch and push to the remote repository.
 
