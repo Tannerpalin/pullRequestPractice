@@ -8,8 +8,6 @@ This repository is for learning and practicing how to make pull requests in GitH
 
 This allows us to safely make updates to a code base and work with others to improve our development abilities.
 
-Here are the steps to make a branch for a pull request in GitHub:
-
 ## First we must make a branch and edit it.
 
 1. Clone this repository (or any other repository, using their link) by typing `git clone https://github.com/Tannerpalin/pullRequestPractice.git`
