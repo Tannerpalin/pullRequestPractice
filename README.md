@@ -28,9 +28,9 @@ This allows us to safely make updates to a code base and work with others to imp
 
 2. Add the files you would like to include in this update by typing `git add fileName`. Where `fileName` is your changed file.
 
-  - If you have many files changed, sometimes you can use the name of the folder or use * followed by the file type extension.
+    - If you have many files changed, sometimes you can use the name of the folder or use * followed by the file type extension.
   
-  - You can use `git status` as you add files to see if any still need to be added or removed. `git reset fileName` will remove a file.
+    - You can use `git status` as you add files to see if any still need to be added or removed. `git reset fileName` will remove a file.
   
 3. After you are done adding files, type `git commit -m "insert helpful message here."` to save these updates as a commit.
 
