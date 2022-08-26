@@ -3,7 +3,7 @@ This repository is for learning and practicing how to make pull requests in GitH
 
 ## Why make a pull request?
 
-Pull requests allow us to segment our changes and bring them into a known working branch in increments. They also allow for helpful peer-reviews of code before bringing them into main branch.
+Pull requests allow us to segment our changes and bring them into a known working branch in increments. They also allow for helpful peer-reviews of code before bringing them into main branch. This allows us to safely make updates to a code base and work with others to improve our development abilities.
 
 Here are the steps to make a branch for a pull request in GitHub:
 
