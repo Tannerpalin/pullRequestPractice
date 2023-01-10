@@ -1,11 +1,12 @@
-# Pull Request Practice
-This repository is for practicing and learning how to make pull requests in GitHub.
+# Pull Request Practice (Git CLI)
+This repository is for learning and practicing how to make pull requests in GitHub.
 
 ## Why make a pull request?
 
-Pull requests allow us to segment our changes and bring them into a known working branch in increments. They also allow for helpful peer-reviews of code before bringing them into main branch.
+- Pull requests allow us to segment our changes and bring them into a known working branch in increments. 
+- They allow for helpful peer-reviews of code before bringing them into main branch. 
 
-Here are the steps to make a branch for a pull request in GitHub:
+This allows us to safely make updates to a code base and work with others to improve our development abilities.
 
 ## First we must make a branch and edit it.
 
@@ -19,7 +20,7 @@ Here are the steps to make a branch for a pull request in GitHub:
 
 4. Next, type `git checkout branchName`. This will allow your editor (VSCode) to jump over and edit only your local branch.
 
-5. Now you can make all your edits, fixes, updates to your local branch. If you'd like to, feel free to add your username to the practiceList.txt
+5. Now you can make all your edits, fixes, updates to your local branch. If you'd like to, feel free to add your username to `practiceList.txt`
 
 ## Now we must save these changes to our local branch and push to the remote repository.
 
@@ -27,9 +28,9 @@ Here are the steps to make a branch for a pull request in GitHub:
 
 2. Add the files you would like to include in this update by typing `git add fileName`. Where `fileName` is your changed file.
 
-  - If you have many files changed, sometimes you can use the name of the folder or use * followed by the file type extension.
+    - If you have many files changed, sometimes you can use the name of the folder or use * followed by the file type extension.
   
-  - You can use `git status` as you add files to see if any still need to be added or removed. `git reset fileName` will remove a file.
+    - You can use `git status` as you add files to see if any still need to be added or removed. `git reset fileName` will remove a file.
   
 3. After you are done adding files, type `git commit -m "insert helpful message here."` to save these updates as a commit.
 
