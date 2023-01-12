@@ -1,5 +1,4 @@
 These people have successfully made a pull request:
 Tannerpalin
 LarkenBarnes
-TimLeggas
 yay
